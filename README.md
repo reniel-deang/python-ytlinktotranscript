@@ -26,9 +26,9 @@ This Python application downloads audio from a YouTube video and transcribes the
    pip install assemblyai
    pip install yt-dlp
 
-3. **Install FFmpeg (for Windows users)
+3. Install FFmpeg (for Windows users)
    Download the latest build of FFmpeg:
-   FFmpeg Download
+   [Download FFmpeg](https://www.python.org/downloads/](https://ffmpeg.org/download.html#build-windows)) 
    Extract the files and copy the three executables (ffmpeg.exe, ffplay.exe, ffprobe.exe) from the bin folder.
    Paste them into your Python's Scripts folder (where Python executables reside).
 
