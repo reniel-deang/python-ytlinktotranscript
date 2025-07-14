@@ -53,10 +53,9 @@ This Python application downloads audio from a YouTube video and transcribes the
     
 ## 🔎 Notes
 Enter a valid YouTube link in the app. The speech transcription may be inaccurate as this is a beta version.
-## 💻 Screenshots
 
 ## 🏷️ Version
-Beta - v0.01. Made by BSCS-4A
+Beta - v0.01.
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
