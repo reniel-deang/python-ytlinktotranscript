@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import scrolledtext, ttk, messagebox
 
 # Set up AssemblyAI API key
-aai.settings.api_key = "d6cc8ff458074f17b04779294f648fb9"
+aai.settings.api_key = ""
 
 # Function to download YouTube audio
 def download_youtube_audio(youtube_url, download_output, transcript_output):
