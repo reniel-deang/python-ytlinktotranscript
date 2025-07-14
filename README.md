@@ -39,7 +39,7 @@ This Python application downloads audio from a YouTube video and transcribes the
 1. **Clone the repository:
 
    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/reniel-deang/python-ytlinktotranscript
    
 2. **Navigate to the project folder:
 
