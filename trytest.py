@@ -9,7 +9,7 @@ import contextlib
 import shutil
 
 # Set up AssemblyAI API key
-aai.settings.api_key = "d6cc8ff458074f17b04779294f648fb9"
+aai.settings.api_key = ""
 
 # Function to create a folder for audio files and transcriptions
 def create_folder_for_audio(audio_name):
