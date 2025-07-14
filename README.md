@@ -43,13 +43,11 @@ This Python application downloads audio from a YouTube video and transcribes the
    
 2. **Navigate to the project folder:
 
-    ```bash
-    cd your-repo-name
 
 3. **Run the application:
 
     ```bash
-    py speech-to-text.py
+    py linktoTranscript.py
     
 ## 🔎 Notes
 Enter a valid YouTube link in the app. The speech transcription may be inaccurate as this is a beta version.
